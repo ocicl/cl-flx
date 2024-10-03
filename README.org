@@ -1,0 +1,9 @@
+* cl-flx
+
+Rewrite emacs-flx in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/the-flx/cl-flx.git |
+| commit  | 72c2334                                   |
+| systems | flx                                       |
+|---------+-------------------------------------------|
