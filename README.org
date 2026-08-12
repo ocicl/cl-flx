@@ -4,7 +4,7 @@ Rewrite emacs-flx in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/the-flx/cl-flx.git |
-| commit  | 61c07fb                                   |
+| commit  | 68a2496                                   |
 | systems | flx                                       |
 |---------+-------------------------------------------|
   
